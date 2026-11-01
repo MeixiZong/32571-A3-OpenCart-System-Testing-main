@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+reports/
+screenshots/
+report_assets/
+# course material and report drafts are not part of the code submission
+*.pdf
+*.docx
